@@ -77,6 +77,8 @@ All user facing experiences to help reduce risk within a product.
 		- [ ] Account / Identity Knowledge
 		- [ ] ID Submission	
 		- [ ] CAPTCHA
+- [ ] Stolen Session Detection
+	- Example: [Catching Compromised Cookies](https://slack.engineering/catching-compromised-cookies/)
 
 ## Customer Service ☎️
 Operational customer service interactions (Support tickets). Support organizations often escalate abuse at scale to engineering and have the most visibility into what is, or is not, working.
